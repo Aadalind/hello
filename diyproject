@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIY Project: Build a Wooden Bookshelf</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        ol {
+            padding-left: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h1>DIY Project: Build a Wooden Bookshelf</h1>
+
+<h2>Steps:</h2>
+<ol>
+    <li>Measure and cut the wooden boards to desired dimensions.</li>
+    <li>Assemble the frame of the bookshelf using screws and wood glue.</li>
+    <li>Attach the shelves to the frame using screws.</li>
+    <li>Sand the bookshelf to smooth out any rough edges.</li>
+    <li>Apply a coat of wood stain or paint for finishing.</li>
+    <li>Let the bookshelf dry completely before use.</li>
+</ol>
+
+<h2>Materials and Quantities:</h2>
+<table>
+    <tr>
+        <th>Material</th>
+        <th>Quantity</th>
+    </tr>
+    <tr>
+        <td>Wooden boards (pine)</td>
+        <td>6 pieces</td>
+    </tr>
+    <tr>
+        <td>Screws (2-inch)</td>
+        <td>24 pieces</td>
+    </tr>
+    <tr>
+        <td>Wood glue</td>
+        <td>1 bottle</td>
+    </tr>
+    <tr>
+        <td>Sandpaper (medium grit)</td>
+        <td>1 sheet</td>
+    </tr>
+    <tr>
+        <td>Wood stain or paint</td>
+        <td>1 can</td>
+    </tr>
+</table>
+
+</body>
+</html>
